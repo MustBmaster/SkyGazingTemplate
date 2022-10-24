@@ -509,3 +509,9 @@ img#img-footer {
 .bg-stary {
   background-image: url(../images/Star.jpg);
 }
+.navigation {
+  height: 100px;
+}
+.main-content {
+  margin-top: 100px;
+}
